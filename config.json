@@ -1,0 +1,11 @@
+﻿{
+    "database": {
+        "host": "eu-cdbr-west-01.cleardb.com",
+        "port": 3306,
+        "user": "b15cd0ccca2d55",
+        "password": "7e015adf",
+        "database": "heroku_70a38ff1a1db916"
+    },
+    "secret": "THIS IS USED TO SIGN AND VERIFY JWT TOKENS, REPLACE IT WITH YOUR OWN SECRET, IT CAN BE ANY STRING"
+}
+
